@@ -1,0 +1,8 @@
+**Commit and push** the changes to your GitHub repository.
+
+---
+
+### What happens next?
+Once you push the `requirements.txt` file, Streamlit Cloud will automatically detect it, reboot your app, and install the listed dependencies. 
+
+If it doesn't kick off automatically, you can click on **Manage app** in the lower right corner of your Streamlit screen, click the three dots menu, and select **Rerun**.
